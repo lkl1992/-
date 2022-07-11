@@ -70,7 +70,7 @@ function renew(){
 }
 
 function update(){
-    wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/acme1key@master/acme1key.sh && chmod -R 777 acme1key.sh && bash acme1key.sh
+    wget -N https://raw.githubusercontents.com/lkl1992/AS.sh/main/acme1key.sh && chmod -R 777 acme1key.sh && bash acme1key.sh
 }
 
 function start_menu(){
@@ -80,7 +80,7 @@ function start_menu(){
     red "    Acme.sh 域名证书一键申请脚本     "
     red "          by 小御坂的破站           "
     echo "                           "
-    red "  Site: https://blog.misaka.rest  "
+    red "  Site: https://no  "
     echo "                           "
     red "=================================="
     echo "                           "
